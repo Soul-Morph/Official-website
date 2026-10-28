@@ -10,7 +10,7 @@
     body{
       margin:0;
       font-family:Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
-      background:linear-gradient(180deg,#00008B 0%, #191970 60%), url('') no-repeat center/cover;
+      background:linear-gradient(180deg,#071029 0%, #07162b 60%), url('') no-repeat center/cover;
       color:#e6eef8;
       -webkit-font-smoothing:antialiased;
       -moz-osx-font-smoothing:grayscale;
